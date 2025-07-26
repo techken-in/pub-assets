@@ -1,0 +1,269 @@
+Mobile App Policies
+These policies are designed to be generic and can be adapted for your specific mobile application. Remember to replace bracketed placeholders (e.g., [Your App Name], [Your Company Name]) with your actual app and company details once they are finalized. It is highly recommended to consult with a legal professional to ensure these policies fully comply with all applicable laws and regulations for your specific business and region.
+
+1. Privacy Policy
+Effective Date: July 26, 2025
+
+This Privacy Policy describes how Nearie (the "App"), operated by Techken Technologies ("we," "us," or "our"), collects, uses, and discloses your information when you use our mobile application.
+
+1. Information We Collect
+
+We collect various types of information to provide and improve our services to you:
+
+Personal Information:
+
+Contact Details: Name, email address, phone number.
+
+Demographic Information: Age, gender, date of birth.
+
+Account Information: Usernames, passwords (encrypted), profile pictures.
+
+Payment Information: Billing address, payment card details (processed securely by third-party payment processors; we do not store full card numbers).
+
+Product Details: Information about products you list, sell, or purchase through the App, including descriptions, photos, and pricing.
+
+Location Information:
+
+Precise Location: With your explicit consent, we may collect precise location data from your device (e.g., GPS, Wi-Fi, cellular network triangulation) to enable location-based services, such as showing nearby products or facilitating local pickups/deliveries.
+
+Approximate Location: We may infer your approximate location from your IP address or other network information.
+
+Device and Usage Information:
+
+Device Information: Device model, operating system, unique device identifiers, mobile network information.
+
+Log Data: Information about how you use the App, including access times, pages viewed, features used, and crash reports.
+
+Cookies and Similar Technologies: We may use cookies, web beacons, and other tracking technologies to collect information about your browsing activities and preferences within the App.
+
+2. How We Use Your Information
+
+We use the information we collect for various purposes, including:
+
+To Provide and Maintain the App: To operate, maintain, and improve the functionality of the App, process transactions, and fulfill your requests.
+
+To Personalize Your Experience: To tailor content, products, and services to your interests and location.
+
+To Communicate With You: To send you updates, security alerts, support messages, marketing communications, and other relevant information.
+
+For Analytics and Research: To understand how users interact with the App, identify trends, and improve our services.
+
+For Security and Fraud Prevention: To protect our users, our services, and our business from fraud and other security threats.
+
+To Comply with Legal Obligations: To meet legal requirements, enforce our terms and conditions, and respond to lawful requests.
+
+3. How We Share Your Information
+
+We may share your information with third parties in the following circumstances:
+
+With Other Users: Information related to your product listings (e.g., product details, your username, approximate location) may be visible to other users of the App to facilitate transactions.
+
+Service Providers: We may share information with third-party vendors, consultants, and other service providers who perform services on our behalf (e.g., payment processing, data analytics, hosting, customer support). These service providers are obligated to protect your information and use it only for the purposes for which it was disclosed.
+
+Business Transfers: In connection with a merger, acquisition, asset sale, or other business transaction, your information may be transferred to the acquiring entity.
+
+Legal Requirements: We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court order or government agency).
+
+With Your Consent: We may share your information with third parties when we have your explicit consent to do so.
+
+4. Data Security
+
+We implement reasonable security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure. Therefore, we cannot guarantee absolute security.
+
+5. Your Choices
+
+Location Information: You can enable or disable location services through your device settings. Disabling location services may limit some features of the App.
+
+Marketing Communications: You can opt-out of receiving promotional emails from us by following the unsubscribe instructions in those emails.
+
+Account Information: You may update or correct your account information at any time by logging into your account settings within the App.
+
+6. Children's Privacy
+
+Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13 without parental consent, we will take steps to remove that information.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our website. Your continued use of the App after any changes constitutes your acceptance of the updated Privacy Policy.
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: [Your Support Email Address]
+
+2. Shipping Policy
+This Shipping Policy outlines the terms and conditions related to the shipping and delivery of products purchased through Nearie.
+
+1. General Shipping Information
+
+Seller Responsibility: For products listed and sold by individual users, the seller is primarily responsible for packaging, shipping, and ensuring the safe delivery of the product to the buyer.
+
+Shipping Methods: Sellers may offer various shipping methods, including standard mail, express delivery, or local pickup. The available options and associated costs will be displayed on the product listing.
+
+Shipping Costs: Shipping costs are determined by the seller and may vary based on the product's size, weight, destination, and chosen shipping method. Buyers are responsible for all shipping costs unless otherwise stated by the seller.
+
+2. Delivery Times
+
+Estimated Delivery: Estimated delivery times are provided by the seller and are approximate. Actual delivery times may vary due to factors such as shipping method, destination, customs processing (for international shipments), and unforeseen delays.
+
+Tracking: Where available, sellers should provide tracking information to buyers once the product has been shipped.
+
+3. International Shipping
+
+Availability: International shipping availability depends on the seller's preferences and capabilities.
+
+Customs, Duties, and Taxes: For international shipments, buyers are responsible for any customs duties, taxes, or import fees levied by the destination country. These charges are not included in the product price or shipping cost.
+
+4. Damaged or Lost Shipments
+
+Reporting Issues: If a product arrives damaged or is lost in transit, the buyer must report the issue to the seller and Nearie customer support within [Number] days of the estimated delivery date or actual delivery.
+
+Resolution: We will facilitate communication between the buyer and seller to resolve shipping issues. Resolution may involve a refund, replacement, or other mutually agreed-upon solution, subject to our Refund Policy and Terms and Conditions.
+
+5. Shipping Address
+
+Accuracy: Buyers are responsible for providing an accurate and complete shipping address. We are not responsible for delays or non-delivery due to incorrect or incomplete address information provided by the buyer.
+
+3. Terms and Conditions
+These Terms and Conditions ("Terms") govern your access to and use of the Nearie mobile application (the "App") provided by Techken Technologies ("we," "us," or "our").
+
+1. Acceptance of Terms
+
+By accessing or using the App, you agree to be bound by these Terms and all policies referenced herein. If you do not agree to these Terms, you may not access or use the App.
+
+2. Eligibility
+
+You must be at least 18 years old or the age of legal majority in your jurisdiction to use the App. By using the App, you represent and warrant that you meet this eligibility requirement.
+
+3. User Accounts
+
+Registration: To access certain features of the App, you may need to register for an account. You agree to provide accurate, current, and complete information during the registration process.
+
+Account Security: You are responsible for maintaining the confidentiality of your account login credentials and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use of your account.
+
+Prohibited Activities: You agree not to:
+
+Use the App for any illegal or unauthorized purpose.
+
+Post or transmit any content that is unlawful, harmful, defamatory, obscene, or otherwise objectionable.
+
+Interfere with or disrupt the integrity or performance of the App.
+
+Attempt to gain unauthorized access to any part of the App or its related systems.
+
+4. Content and Conduct
+
+User Content: You are solely responsible for any content you post, upload, publish, or display through the App ("User Content"). You grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display your User Content in connection with the operation of the App.
+
+Prohibited Content: You agree not to post User Content that:
+
+Infringes on any third-party rights, including copyright, trademark, privacy, or publicity rights.
+
+Is false, misleading, or deceptive.
+
+Promotes illegal activities or violence.
+
+Contains viruses or other harmful code.
+
+Monitoring: We reserve the right, but are not obligated, to monitor User Content and remove any content that violates these Terms.
+
+5. Transactions
+
+Buyer and Seller Responsibility: The App acts as a marketplace to connect buyers and sellers. We are not a party to any transactions between users. Buyers and sellers are solely responsible for their interactions and the terms of any transactions they enter into.
+
+Product Listings: Sellers are responsible for the accuracy of their product listings, including descriptions, photos, and pricing.
+
+Payment Processing: Payments are processed through third-party payment processors. We are not responsible for any issues arising from the use of these services.
+
+6. Disclaimers
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE.
+
+7. Limitation of Liability
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL Techken Technologies BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE APP; (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE APP; OR (C) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT.
+
+8. Indemnification
+
+You agree to indemnify and hold harmless Techken Technologies and its affiliates, officers, agents, and employees from and against any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in any way connected with your access to or use of the App or your violation of these Terms.
+
+9. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of [Your State/Country], without regard to its conflict of law principles.
+
+10. Changes to Terms
+
+We may revise these Terms from time to time. The most current version will always be available within the App or on our website. By continuing to access or use the App after revisions become effective, you agree to be bound by the revised Terms.
+
+11. Contact Information
+
+If you have any questions about these Terms, please contact us at: [Your Support Email Address]
+
+4. Pricing Policy
+This Pricing Policy outlines the general principles for pricing products and services within Nearie.
+
+1. Product Pricing
+
+Seller Determined: For products listed and sold by individual users, the seller is solely responsible for setting the price of their products.
+
+Transparency: Sellers are encouraged to clearly display the price of their products, including any applicable taxes (if required by law) or additional fees, on the product listing page.
+
+Currency: All prices will be displayed in [Your Primary Currency, e.g., USD, EUR, INR].
+
+No Price Manipulation: Users are prohibited from engaging in any form of price manipulation, including but not limited to, artificially inflating prices or engaging in deceptive pricing practices.
+
+2. App Fees and Commissions (If Applicable)
+
+Transaction Fees: Nearie may charge a transaction fee or commission on sales made through the App. Details of any such fees will be clearly communicated to sellers (e.g., in a separate "Seller Agreement" or within the App's seller dashboard).
+
+Subscription Fees: If the App offers premium features or services, these may be subject to subscription fees. The terms and pricing for such subscriptions will be clearly outlined prior to purchase.
+
+Payment Processing Fees: Any fees charged by third-party payment processors will be borne by the buyer or seller as indicated during the transaction process.
+
+3. Promotions and Discounts
+
+Seller Promotions: Sellers may offer discounts or run promotions on their products at their discretion.
+
+App Promotions: Nearie may, from time to time, offer promotions or discounts on App fees or subscription services.
+
+4. Price Changes
+
+Seller Price Changes: Sellers can adjust the prices of their products at any time before a transaction is completed.
+
+App Fee Changes: We reserve the right to change our App fees or subscription pricing at any time. We will provide reasonable notice of any such changes.
+
+5. Cancellation Policy
+This Cancellation Policy outlines the terms and conditions for canceling orders or transactions within Nearie.
+
+1. Order Cancellation by Buyer
+
+Before Shipment: Buyers may be able to cancel an order before the seller has shipped the product. The ability to cancel and the timeframe for cancellation will be at the seller's discretion and may be indicated on the product listing or during the checkout process.
+
+Cancellation Request: To request a cancellation, buyers should contact the seller directly through the App's messaging system as soon as possible.
+
+Refund for Canceled Orders: If an order is successfully canceled before shipment, a full refund will typically be issued to the buyer, including the product price and any shipping costs paid. Refunds will be processed through the original payment method.
+
+2. Order Cancellation by Seller
+
+Valid Reasons: Sellers may cancel an order due to unforeseen circumstances, such as product unavailability, shipping issues, or a buyer's failure to provide necessary information.
+
+Notification: If a seller cancels an order, they must notify the buyer immediately through the App.
+
+Refund for Seller-Canceled Orders: If a seller cancels an order, a full refund will be issued to the buyer, including the product price and any shipping costs paid.
+
+3. Cancellation of Services/Subscriptions (If Applicable)
+
+Subscription Cancellation: If you subscribe to premium features or services within the App, you may cancel your subscription at any time through your account settings.
+
+Refunds for Subscriptions: Refunds for canceled subscriptions will be subject to the specific terms outlined at the time of subscription purchase. Generally, partial refunds for unused portions of a subscription period may not be available.
+
+4. Dispute Resolution
+
+Communication: We encourage buyers and sellers to communicate directly to resolve any cancellation-related issues.
+
+Our Role: Nearie may mediate disputes related to cancellations, but our decision will be final.
+
+5. Exceptions
+
+Certain products or services may have specific cancellation terms that supersede this general policy. These exceptions will be clearly stated on the product listing or service description.
+
+Please ensure you replace all bracketed placeholders with your actual app and company information.
